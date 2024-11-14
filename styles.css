@@ -57,3 +57,8 @@ p {
     font-size: 1rem;
     margin: 1rem 0;
 }
+
+.animate__animated {
+    animation-duration: infinite;
+    cursor: pointer;
+}
